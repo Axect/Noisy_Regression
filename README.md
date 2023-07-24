@@ -4,6 +4,6 @@
 
 Method | Notebook
 :----: | :------:
-Multi-Layer Perceptron (MLP) | [Notebook](./Noisy_MLP.ipynb)
-Bayes Neural Network (BNN) | 
+Multi-Layer Perceptron (MLP) | [Notebook](./Noisy_MLP2.ipynb)
+Bayesian Neural Network (BNN) | [Notebook](./Noisy_BNN6.ipynb)
 Neural Differential Equation (NDE) | 
