@@ -19,6 +19,7 @@ dependencies = [
     "wandb>=0.15.5",
     "torchdiffeq>=0.2.3",
     "laplace-torch>=0.1a2",
+    "tqdm>=4.66.1",
 ]
 requires-python = ">=3.11"
 readme = "README.md"
