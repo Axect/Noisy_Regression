@@ -18,6 +18,7 @@ dependencies = [
     "notebook>=7.0.0",
     "wandb>=0.15.5",
     "torchdiffeq>=0.2.3",
+    "laplace-torch>=0.1a2",
 ]
 requires-python = ">=3.11"
 readme = "README.md"
