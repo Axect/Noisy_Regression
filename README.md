@@ -10,4 +10,5 @@ Method | Notebook
 :----: | :------:
 Multi-Layer Perceptron (MLP) | [Notebook](./Noisy_MLP2.ipynb)
 Bayesian Neural Network (BNN) | [Notebook](./Noisy_BNN7.ipynb)
-Laplace Approximation (LA) | [Notebook](./Noisy_MLP-Laplace.ipynb) 
+Laplace Approximation (LA) | [Notebook](./Noisy_MLP-Laplace.ipynb)
+Kolmogorov-Arnold Network (KAN) | [Notebook](./Noisy_KAN.ipynb)

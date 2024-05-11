@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 wandb/
 Noisy_Regression/
+efficient_kan/
